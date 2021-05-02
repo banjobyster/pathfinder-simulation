@@ -1,0 +1,32 @@
+{
+  "_comment": "Powers this repo's card on banjobyster.github.io. NOTE: needs a GitHub repo to host this folder — see scaffold/README.md. Wrap **words** to accent them.",
+  "schemaVersion": 1,
+
+  "title": "PathFinder Simulation",
+  "tagline": "Visualise shortest paths in a grid",
+  "description": "A **web** based simulation made with Godot Engine where you can find the shortest path in an unweighted graph.",
+  "highlights": [
+    "Interactive shortest-path visualisation",
+    "Built with Godot Engine"
+  ],
+
+  "category": "Game",
+  "tags": ["Godot", "Visualisation"],
+  "status": "complete",
+  "year": null,
+  "role": "Solo",
+
+  "demo": "https://banjobyster.itch.io/pathfindersimulation",
+  "repo": null,
+  "video": "",
+  "article": "",
+
+  "cover": "cover.png",
+  "thumbnail": "",
+  "gallery": [],
+
+  "order": 60,
+  "featured": true,
+  "pinned": false,
+  "accent": "rgba(172, 255, 47, 0.9)"
+}
